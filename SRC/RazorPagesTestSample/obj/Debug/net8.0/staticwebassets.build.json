@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "Gy3ilq3fkOnJQ2i3aUptDBdDaLSFPJdS3sQ1O968feI=",
+  "Hash": "OAYk7e3MrZ/pzzJn8TGzAswAAccChdL7wXqY/2QrYIQ=",
   "Source": "RazorPagesTestSample",
   "BasePath": "_content/RazorPagesTestSample",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "RazorPagesTestSample\\wwwroot",
       "Source": "RazorPagesTestSample",
-      "ContentRoot": "C:\\Users\\Hector\\Dropbox\\School\\2024\\Fall 2024\\Capstone CIDM 4390\\Assignment 2\\Tutorial 2\\Capstone4390-Tutorial-2\\SRC\\src\\RazorPagesTestSample\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Hector\\Dropbox\\School\\2024\\Fall 2024\\Capstone CIDM 4390\\Assignment 2\\Tutorial 2\\Capstone4390-Tutorial-2\\SRC\\RazorPagesTestSample\\wwwroot\\",
       "BasePath": "_content/RazorPagesTestSample",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\Hector\\Dropbox\\School\\2024\\Fall 2024\\Capstone CIDM 4390\\Assignment 2\\Tutorial 2\\Capstone4390-Tutorial-2\\SRC\\src\\RazorPagesTestSample\\wwwroot\\favicon.ico",
+      "Identity": "C:\\Users\\Hector\\Dropbox\\School\\2024\\Fall 2024\\Capstone CIDM 4390\\Assignment 2\\Tutorial 2\\Capstone4390-Tutorial-2\\SRC\\RazorPagesTestSample\\wwwroot\\favicon.ico",
       "SourceId": "RazorPagesTestSample",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hector\\Dropbox\\School\\2024\\Fall 2024\\Capstone CIDM 4390\\Assignment 2\\Tutorial 2\\Capstone4390-Tutorial-2\\SRC\\src\\RazorPagesTestSample\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Hector\\Dropbox\\School\\2024\\Fall 2024\\Capstone CIDM 4390\\Assignment 2\\Tutorial 2\\Capstone4390-Tutorial-2\\SRC\\RazorPagesTestSample\\wwwroot\\",
       "BasePath": "_content/RazorPagesTestSample",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",

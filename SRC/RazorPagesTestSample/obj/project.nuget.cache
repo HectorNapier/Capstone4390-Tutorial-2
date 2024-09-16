@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "XucJQ7rCpFXXgKrZzUVJfP/vhZ/tfdN8RozpY6PUNnnARr02k+FMKvKYDBDmBsLriZkVOInHKiFNA0SyClWrUA==",
+  "dgSpecHash": "kZ650dZl6cUCqgndUv5Ou2/STyD60Tugq6YTbeAGIAnyWZTN1cC27ud6BetCrxI6/aUjydUr0KYZnKaZeAxkLg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Hector\\Dropbox\\School\\2024\\Fall 2024\\Capstone CIDM 4390\\Assignment 2\\Tutorial 2\\Capstone4390-Tutorial-2\\SRC\\src\\RazorPagesTestSample\\RazorPagesTestSample.csproj",
+  "projectFilePath": "C:\\Users\\Hector\\Dropbox\\School\\2024\\Fall 2024\\Capstone CIDM 4390\\Assignment 2\\Tutorial 2\\Capstone4390-Tutorial-2\\SRC\\RazorPagesTestSample\\RazorPagesTestSample.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Hector\\.nuget\\packages\\microsoft.entityframeworkcore\\8.0.0\\microsoft.entityframeworkcore.8.0.0.nupkg.sha512",
     "C:\\Users\\Hector\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\8.0.0\\microsoft.entityframeworkcore.abstractions.8.0.0.nupkg.sha512",

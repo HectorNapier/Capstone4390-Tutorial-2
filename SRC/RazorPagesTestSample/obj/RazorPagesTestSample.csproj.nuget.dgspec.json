@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Hector\\Dropbox\\School\\2024\\Fall 2024\\Capstone CIDM 4390\\Assignment 2\\Tutorial 2\\Capstone4390-Tutorial-2\\SRC\\src\\RazorPagesTestSample\\RazorPagesTestSample.csproj": {}
+    "C:\\Users\\Hector\\Dropbox\\School\\2024\\Fall 2024\\Capstone CIDM 4390\\Assignment 2\\Tutorial 2\\Capstone4390-Tutorial-2\\SRC\\RazorPagesTestSample\\RazorPagesTestSample.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Hector\\Dropbox\\School\\2024\\Fall 2024\\Capstone CIDM 4390\\Assignment 2\\Tutorial 2\\Capstone4390-Tutorial-2\\SRC\\src\\RazorPagesTestSample\\RazorPagesTestSample.csproj": {
+    "C:\\Users\\Hector\\Dropbox\\School\\2024\\Fall 2024\\Capstone CIDM 4390\\Assignment 2\\Tutorial 2\\Capstone4390-Tutorial-2\\SRC\\RazorPagesTestSample\\RazorPagesTestSample.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Hector\\Dropbox\\School\\2024\\Fall 2024\\Capstone CIDM 4390\\Assignment 2\\Tutorial 2\\Capstone4390-Tutorial-2\\SRC\\src\\RazorPagesTestSample\\RazorPagesTestSample.csproj",
+        "projectUniqueName": "C:\\Users\\Hector\\Dropbox\\School\\2024\\Fall 2024\\Capstone CIDM 4390\\Assignment 2\\Tutorial 2\\Capstone4390-Tutorial-2\\SRC\\RazorPagesTestSample\\RazorPagesTestSample.csproj",
         "projectName": "RazorPagesTestSample",
-        "projectPath": "C:\\Users\\Hector\\Dropbox\\School\\2024\\Fall 2024\\Capstone CIDM 4390\\Assignment 2\\Tutorial 2\\Capstone4390-Tutorial-2\\SRC\\src\\RazorPagesTestSample\\RazorPagesTestSample.csproj",
+        "projectPath": "C:\\Users\\Hector\\Dropbox\\School\\2024\\Fall 2024\\Capstone CIDM 4390\\Assignment 2\\Tutorial 2\\Capstone4390-Tutorial-2\\SRC\\RazorPagesTestSample\\RazorPagesTestSample.csproj",
         "packagesPath": "C:\\Users\\Hector\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Hector\\Dropbox\\School\\2024\\Fall 2024\\Capstone CIDM 4390\\Assignment 2\\Tutorial 2\\Capstone4390-Tutorial-2\\SRC\\src\\RazorPagesTestSample\\obj\\",
+        "outputPath": "C:\\Users\\Hector\\Dropbox\\School\\2024\\Fall 2024\\Capstone CIDM 4390\\Assignment 2\\Tutorial 2\\Capstone4390-Tutorial-2\\SRC\\RazorPagesTestSample\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Hector\\AppData\\Roaming\\NuGet\\NuGet.Config"
