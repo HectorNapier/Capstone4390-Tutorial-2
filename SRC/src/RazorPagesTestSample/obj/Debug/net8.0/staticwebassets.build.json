@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "OAZOn9IvKNpRQfJaKVIrCr2s4EBpqJZ9Jht5ueR25j8=",
+  "Source": "RazorPagesTestSample",
+  "BasePath": "_content/RazorPagesTestSample",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "RazorPagesTestSample\\wwwroot",
+      "Source": "RazorPagesTestSample",
+      "ContentRoot": "C:\\Users\\Hector\\Dropbox\\School\\2024\\Fall 2024\\Capstone CIDM 4390\\Assignment 2\\Tutorial 2\\Capstone4390-Tutorial-2\\Capstone4390-Tutorial-2\\tutorial\\src\\RazorPagesTestSample\\wwwroot\\",
+      "BasePath": "_content/RazorPagesTestSample",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Hector\\Dropbox\\School\\2024\\Fall 2024\\Capstone CIDM 4390\\Assignment 2\\Tutorial 2\\Capstone4390-Tutorial-2\\Capstone4390-Tutorial-2\\tutorial\\src\\RazorPagesTestSample\\wwwroot\\favicon.ico",
+      "SourceId": "RazorPagesTestSample",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Hector\\Dropbox\\School\\2024\\Fall 2024\\Capstone CIDM 4390\\Assignment 2\\Tutorial 2\\Capstone4390-Tutorial-2\\Capstone4390-Tutorial-2\\tutorial\\src\\RazorPagesTestSample\\wwwroot\\",
+      "BasePath": "_content/RazorPagesTestSample",
+      "RelativePath": "favicon.ico",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\favicon.ico"
+    }
+  ]
+}
